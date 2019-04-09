@@ -1,6 +1,12 @@
 {
-  "userId": 1,
-  "id": 1,
-  "title": "delectus aut autem",
-  "completed": false
+  "flashmode": 1,
+  "whitebalancevalue": 1,
+  "saturation": "1.1",
+  "ldr": false,
+  "ldr_morning_min": "1",
+  "ldr_morning_max": "400", 
+  "ldr_noon_min": "1",
+  "ldr_noon_max": "400",
+  "ldr_night_min": "1",
+  "ldr_night_max": "400"
 }
