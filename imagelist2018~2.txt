@@ -1,1 +1,1 @@
-OK:$baboon109.png~baboon110.png^
+OK:$airplane109.png~airplane110.png^
